@@ -9,7 +9,7 @@ import {
   PasteEventDetail
 } from '../../../types';
 import Block from '../block';
-import { SavedData } from '../../types-internal/block-data';
+import { SavedData } from '../../../types/api/block-data';
 
 /**
  * Tag substitute object.

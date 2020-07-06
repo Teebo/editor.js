@@ -1,4 +1,4 @@
-import {BlockToolData} from '../../types/tools';
+import {BlockToolData} from '../tools';
 
 /**
  * Tool's saved data
