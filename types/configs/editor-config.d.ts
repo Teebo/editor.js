@@ -80,7 +80,7 @@ export interface EditorConfig {
   onChange?(api: API): void;
 
   /**
-   * Editor's onChange debounce time
+   * Editor's onChange debounce timer
    */
   onChangeDebounceTime?: number;
 }
